@@ -2,6 +2,8 @@
 ### Etapa Final
 Se propone la creación de una API REST mediante Javascript, utilizando Node JS y Express como framework principal. Se tienen dos rutas principales formando una arquitectura de Carrito-Producto, propia de comercios electrónicos. 
 
+#### [Video Demostrativo](https://www.youtube.com/watch?v=KXIR3RKa4Cw)
+
 
 #### Front End
 A continuación vemos parte del front end principal. En donde se aprecia la paginación, detalles del producto que va cmabiando el container principal naranja centrado y añadir al carrito. Asi como también limpiar el carrito.
